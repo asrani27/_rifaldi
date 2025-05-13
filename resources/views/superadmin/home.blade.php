@@ -2,7 +2,7 @@
 
 @section('content')
 <div class="row">
-    <div class="col-lg-12 col-md-12">
+    <div class="col-lg-12">
         <!-- support-section start -->
         <div class="row">
             <div class="col-sm-6">
@@ -33,7 +33,16 @@
         <!-- support-section end -->
     </div>
 
+
+
 </div>
+
+<center>
+    <h4> <img src="/logo/barabai.png" width="10%"><br />DINAS PENANAMAN MODAL PELAYANAN TERPADU SATU
+        PINTU<br />
+        DAN TENAGA KERJA KABUPATEN HULU SUNGAI TENGAH
+    </h4>
+</center>
 @endsection
 
 @push('js')
